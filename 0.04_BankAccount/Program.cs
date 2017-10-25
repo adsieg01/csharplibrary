@@ -32,7 +32,6 @@ namespace _0._04_BankAccount
                 Console.WriteLine("Invalid Entry");
                 Console.ReadLine();
             }
-            Console.ReadLine();
         }
     }
 }
