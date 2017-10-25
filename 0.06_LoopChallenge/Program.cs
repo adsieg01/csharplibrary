@@ -13,15 +13,15 @@ namespace _0._06_LoopChallenge
             int n = 1;
             while (n < 101)
             {
-                if(n % 15 == 0)
-                    {
-                       Console.WriteLine("FizzBuzz");
-                    }
-                else if (n % 3 == 0) 
+                if (n % 15 == 0)
+                {
+                    Console.WriteLine("FizzBuzz");
+                }
+                else if (n % 3 == 0)
                 {
                     Console.WriteLine("Fizz");
                 }
-               else if (n % 5 == 0)
+                else if (n % 5 == 0)
                 {
                     Console.WriteLine("Buzz");
                 }
@@ -29,7 +29,8 @@ namespace _0._06_LoopChallenge
                 {
                     Console.WriteLine(n);
                 }
-                 n+=1;
-            }   }
+                n += 1;
+            }
+        }
     }
 }
