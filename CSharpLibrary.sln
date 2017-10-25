@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_BankAccount", "0.04_Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_Switch", "0.05_Switch\0.05_Switch.csproj", "{277BE0F7-43A7-4112-BAD7-142EAA461424}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Loops", "0.05_Loops\0.06_Loops.csproj", "{3FCAEFDC-DAAF-4779-88C6-0595B2F04938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_LoopChallenge", "0.06_LoopChallenge\0.06_LoopChallenge.csproj", "{B3244381-0B3F-4726-A0A8-B1EEF31E238D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{277BE0F7-43A7-4112-BAD7-142EAA461424}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{277BE0F7-43A7-4112-BAD7-142EAA461424}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{277BE0F7-43A7-4112-BAD7-142EAA461424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FCAEFDC-DAAF-4779-88C6-0595B2F04938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCAEFDC-DAAF-4779-88C6-0595B2F04938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCAEFDC-DAAF-4779-88C6-0595B2F04938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCAEFDC-DAAF-4779-88C6-0595B2F04938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3244381-0B3F-4726-A0A8-B1EEF31E238D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3244381-0B3F-4726-A0A8-B1EEF31E238D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3244381-0B3F-4726-A0A8-B1EEF31E238D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3244381-0B3F-4726-A0A8-B1EEF31E238D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
