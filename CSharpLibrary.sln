@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_Strings", "0.03_String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03StringsChallenge", "0.03StringsChallenge\0.03StringsChallenge.csproj", "{627085FE-A3AC-415F-922C-5F140F54AA2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Coditionals", "0.04_Coditionals\0.04_Coditionals.csproj", "{5594FDF6-6FF3-457F-AA25-B77167E6AB61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_BankAccount", "0.04_BankAccount\0.04_BankAccount.csproj", "{CF2E7FC3-EC08-4B8C-96BE-0C0123B33BB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{627085FE-A3AC-415F-922C-5F140F54AA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{627085FE-A3AC-415F-922C-5F140F54AA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{627085FE-A3AC-415F-922C-5F140F54AA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5594FDF6-6FF3-457F-AA25-B77167E6AB61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5594FDF6-6FF3-457F-AA25-B77167E6AB61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5594FDF6-6FF3-457F-AA25-B77167E6AB61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5594FDF6-6FF3-457F-AA25-B77167E6AB61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF2E7FC3-EC08-4B8C-96BE-0C0123B33BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF2E7FC3-EC08-4B8C-96BE-0C0123B33BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF2E7FC3-EC08-4B8C-96BE-0C0123B33BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF2E7FC3-EC08-4B8C-96BE-0C0123B33BB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

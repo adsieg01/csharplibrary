@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.04_Coditionals\obj\Debug\0.04_Coditionals.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.04_Coditionals\bin\Debug\0.04_Coditionals.exe.config
+C:\DotNetProjects\CSharpLibrary\0.04_Coditionals\bin\Debug\0.04_Coditionals.exe
+C:\DotNetProjects\CSharpLibrary\0.04_Coditionals\bin\Debug\0.04_Coditionals.pdb
+C:\DotNetProjects\CSharpLibrary\0.04_Coditionals\obj\Debug\0.04_Coditionals.exe
+C:\DotNetProjects\CSharpLibrary\0.04_Coditionals\obj\Debug\0.04_Coditionals.pdb
