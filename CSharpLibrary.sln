@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02_BasicTypes", "0.02_Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02_BasicTypesChallenges", "0.02_BasicTypesChallenges\0.02_BasicTypesChallenges.csproj", "{930B8D0E-A0F5-4BC4-A9B2-0009A0586086}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_Strings", "0.03_Strings\0.03_Strings.csproj", "{0FFA4F2E-8F8A-4447-9BEA-95E83A44868D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03StringsChallenge", "0.03StringsChallenge\0.03StringsChallenge.csproj", "{627085FE-A3AC-415F-922C-5F140F54AA2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{930B8D0E-A0F5-4BC4-A9B2-0009A0586086}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{930B8D0E-A0F5-4BC4-A9B2-0009A0586086}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{930B8D0E-A0F5-4BC4-A9B2-0009A0586086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFA4F2E-8F8A-4447-9BEA-95E83A44868D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFA4F2E-8F8A-4447-9BEA-95E83A44868D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFA4F2E-8F8A-4447-9BEA-95E83A44868D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFA4F2E-8F8A-4447-9BEA-95E83A44868D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627085FE-A3AC-415F-922C-5F140F54AA2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627085FE-A3AC-415F-922C-5F140F54AA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627085FE-A3AC-415F-922C-5F140F54AA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627085FE-A3AC-415F-922C-5F140F54AA2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
