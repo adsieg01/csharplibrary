@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.09_ConsoleChallengeFinal\obj\Debug\0.09_ConsoleChallengeFinal.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.09_ConsoleChallengeFinal\bin\Debug\0.09_ConsoleChallengeFinal.exe.config
+C:\DotNetProjects\CSharpLibrary\0.09_ConsoleChallengeFinal\bin\Debug\0.09_ConsoleChallengeFinal.exe
+C:\DotNetProjects\CSharpLibrary\0.09_ConsoleChallengeFinal\bin\Debug\0.09_ConsoleChallengeFinal.pdb
+C:\DotNetProjects\CSharpLibrary\0.09_ConsoleChallengeFinal\obj\Debug\0.09_ConsoleChallengeFinal.exe
+C:\DotNetProjects\CSharpLibrary\0.09_ConsoleChallengeFinal\obj\Debug\0.09_ConsoleChallengeFinal.pdb

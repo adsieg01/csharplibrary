@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.09_Constructors_real\bin\Debug\0.09_Constructors_real.exe.config
+C:\DotNetProjects\CSharpLibrary\0.09_Constructors_real\bin\Debug\0.09_Constructors_real.exe
+C:\DotNetProjects\CSharpLibrary\0.09_Constructors_real\bin\Debug\0.09_Constructors_real.pdb
+C:\DotNetProjects\CSharpLibrary\0.09_Constructors_real\obj\Debug\0.09_Constructors_real.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.09_Constructors_real\obj\Debug\0.09_Constructors_real.exe
+C:\DotNetProjects\CSharpLibrary\0.09_Constructors_real\obj\Debug\0.09_Constructors_real.pdb

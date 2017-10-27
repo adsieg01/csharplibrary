@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.08_arrays\obj\Debug\0.08_arrays.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.08_arrays\bin\Debug\0.08_arrays.exe.config
+C:\DotNetProjects\CSharpLibrary\0.08_arrays\bin\Debug\0.08_arrays.exe
+C:\DotNetProjects\CSharpLibrary\0.08_arrays\bin\Debug\0.08_arrays.pdb
+C:\DotNetProjects\CSharpLibrary\0.08_arrays\obj\Debug\0.08_arrays.exe
+C:\DotNetProjects\CSharpLibrary\0.08_arrays\obj\Debug\0.08_arrays.pdb
+C:\DotNetProjects\CSharpLibrary\0.08_arrays\obj\Debug\0.08_arrays.csprojResolveAssemblyReference.cache

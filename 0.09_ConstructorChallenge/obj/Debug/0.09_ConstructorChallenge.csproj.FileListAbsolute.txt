@@ -1,0 +1,1 @@
+C:\DotNetProjects\CSharpLibrary\0.09_ConstructorChallenge\obj\Debug\0.09_ConstructorChallenge.csproj.CoreCompileInputs.cache
