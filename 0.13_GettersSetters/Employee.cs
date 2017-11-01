@@ -10,7 +10,8 @@ namespace _0._13_GettersSetters
     {
         // "Backing" Fields
         private int _id;
-        
+        private string _name;
+        private string _workQuote;
         //Properties
         public int ID
         {
@@ -25,8 +26,7 @@ namespace _0._13_GettersSetters
                 _id = value;
             }
         }
-        private string _name;
-
+        
         public string Name
         {
             get
@@ -37,12 +37,20 @@ namespace _0._13_GettersSetters
             {
                 if (string.IsNullOrWhiteSpace(value))
                     throw new Exception("No name has been entered");
-                _name = value;
+                _name = value.Trim();
             }
         }
 
+        //Methods
+        public void SetWorkQuote(string quote)
+        {
+            this._workQuote = quote;
+        }
 
-
+        public string GetQuote()
+        {
+            return this._workQuote;
+        }
 
     }
 }

@@ -20,8 +20,10 @@ namespace _0._13_GettersSetters
 
             Console.WriteLine($"New Employee: {newEmployee.Name} {newEmployee.ID}");
 
-            Console.WriteLine($"Enter a common quote for {newEmployee.name}");
-            newEmployee
+            Console.WriteLine($"Enter a common quote for {newEmployee.Name}");
+            newEmployee.SetWorkQuote(Console.ReadLine());
+
+            Console.WriteLine(newEmployee.GetQuote());
         }
     }
 }
