@@ -10,7 +10,7 @@ namespace _0._16_QuizOne
     {
         static void Main(string[] args)
         {
-            Triangle newTriangle = new Triangle(8,4);
+            Triangle newTriangle = new Triangle(8, 4);
 
             Console.WriteLine($"Area = {newTriangle.Area()}");
 
@@ -29,6 +29,18 @@ namespace _0._16_QuizOne
             Triangle newTriangle5 = new Triangle(10, 40);
 
             Console.WriteLine($"Area = {newTriangle5.Area()}");
+
+            //////////////////////////////////////////////////////
+            double[] triangles = { newTriangle.Area(), newTriangle2.Area(),
+                newTriangle3.Area(), newTriangle4.Area() };
+
+            IEnumerable<object> query = from t in triangles
+                                        where t > 50
+                                        orderby t ascending
+                                        select t; 
+          
+
+
         }
     }
 }
