@@ -49,7 +49,10 @@ namespace _0._08_arrays
             {
                 Console.WriteLine(number);
             }
-                
+          
+            
+
+             
 
 
 

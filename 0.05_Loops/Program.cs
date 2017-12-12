@@ -20,6 +20,7 @@ namespace _0._05_Loops
                     Console.WriteLine(i);
                     Console.WriteLine("Blast off!");
                 }
+                Console.ReadLine();
             }
         }
     }

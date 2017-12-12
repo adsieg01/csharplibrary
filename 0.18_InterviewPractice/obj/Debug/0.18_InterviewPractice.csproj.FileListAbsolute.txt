@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.18_InterviewPractice\bin\Debug\0.18_InterviewPractice.exe.config
+C:\DotNetProjects\CSharpLibrary\0.18_InterviewPractice\bin\Debug\0.18_InterviewPractice.exe
+C:\DotNetProjects\CSharpLibrary\0.18_InterviewPractice\bin\Debug\0.18_InterviewPractice.pdb
+C:\DotNetProjects\CSharpLibrary\0.18_InterviewPractice\obj\Debug\0.18_InterviewPractice.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.18_InterviewPractice\obj\Debug\0.18_InterviewPractice.exe
+C:\DotNetProjects\CSharpLibrary\0.18_InterviewPractice\obj\Debug\0.18_InterviewPractice.pdb
+C:\DotNetProjects\CSharpLibrary\0.18_InterviewPractice\obj\Debug\0.18_InterviewPractice.csprojResolveAssemblyReference.cache

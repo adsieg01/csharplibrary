@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.18_WhiteBoard\obj\Debug\0.18_WhiteBoard.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.18_WhiteBoard\bin\Debug\0.18_WhiteBoard.exe.config
+C:\DotNetProjects\CSharpLibrary\0.18_WhiteBoard\bin\Debug\0.18_WhiteBoard.exe
+C:\DotNetProjects\CSharpLibrary\0.18_WhiteBoard\bin\Debug\0.18_WhiteBoard.pdb
+C:\DotNetProjects\CSharpLibrary\0.18_WhiteBoard\obj\Debug\0.18_WhiteBoard.exe
+C:\DotNetProjects\CSharpLibrary\0.18_WhiteBoard\obj\Debug\0.18_WhiteBoard.pdb

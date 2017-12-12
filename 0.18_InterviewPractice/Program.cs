@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._06_LoopChallenge
+namespace _0._18_InterviewPractice
 {
     class Program
     {
         static void Main(string[] args)
         {
+           for (int i = 1; i <= 5; i++)
+            {
+                
+              
+            }
+            Console.WriteLine("_____________________________________________________");
             int n = 1;
             while (n < 101)
             {
@@ -31,7 +37,11 @@ namespace _0._06_LoopChallenge
                 }
                 n += 1;
             }
-            Console.ReadLine();
+            Console.ReadLine(); 
+
+
+
+
         }
     }
 }
